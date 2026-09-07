@@ -34,9 +34,10 @@ Acceptable use: `Clip-Boy/acceptable_use.md`.
 - **ESP32 Marauder** by **[JustCallMeKoko](https://github.com/justcallmekoko)**
   ([justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)) - the
   backbone of the badge's WiFi/Bluetooth recon toolset.
-- **Drone Remote-ID detector** (ASTM F3411 / Open Drone ID) contributed by
-  **[zenrandom](https://github.com/zenrandom)** - the companion transmitter/simulator toolkit
-  lives at **[SafeHazard/drone-remoteid](https://github.com/SafeHazard/drone-remoteid)**.
+- **Drone Remote-ID detector** (ASTM F3411 / Open Drone ID) **and the screensaver idle clock**,
+  contributed by **[zenrandom](https://github.com/zenrandom)** - the companion
+  transmitter/simulator toolkit lives at
+  **[SafeHazard/drone-remoteid](https://github.com/SafeHazard/drone-remoteid)**.
 
 Full on-device credits are under **Settings > Credits**; third-party components in
 `Clip-Boy/THIRD_PARTY.md`.
